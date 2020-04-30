@@ -1,0 +1,83 @@
+{ "items":[
+    {
+        "SlNo" : 901, 
+        "name" :"Rice",
+        "Quantity" : {"weightIn" : "kg", "number" : "10" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 902, 
+        "name" :"Sugar",
+        "Quantity" : {"weightIn" : "kg", "number" : "2" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 903, 
+        "name" :"Salt",
+        "Quantity" : {"weightIn" : "kg", "number" : "1" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 904, 
+        "name" :"Green Gram",
+        "Quantity" : {"weightIn" : "kg", "number" : "1/2" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 905, 
+        "name" :"Black Eyed Beans",
+        "Quantity" : {"weightIn" : "kg", "number" : "1/2" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 906, 
+        "name" :"Kidney beans",
+        "Quantity" : {"weightIn" : "kg", "number" : "1/2" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 907, 
+        "name" :"Cumin seeds",
+        "Quantity" : {"weightIn" : "grams", "number" : "100" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 908, 
+        "name" :"Mustard seeds",
+        "Quantity" : {"weightIn" : "grams", "number" : "100" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 909, 
+        "name" :"Jaggery",
+        "Quantity" : {"weightIn" : "kg", "number" : "1" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 910, 
+        "name" :" Cardamom",
+        "Quantity" : {"weightIn" : "grams", "number" : "50" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    }
+]
+}
