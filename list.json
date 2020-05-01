@@ -1,0 +1,83 @@
+{ "items":[
+    {
+        "SlNo" : 901, 
+        "name" :"Rice",
+        "Quantity" : {"weightIn" : "kg", "number" : "10" },
+        "Unit" : 1,
+        "Department" : "Grocery-Cereals" ,
+        "Notes": "Pavizham"
+    },
+    {
+        "SlNo" : 902, 
+        "name" :"Sugar",
+        "Quantity" : {"weightIn" : "kg", "number" : "2" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": "Supreme"
+    },
+    {
+        "SlNo" : 903, 
+        "name" :"Salt",
+        "Quantity" : {"weightIn" : "kg", "number" : "1" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": "Annapoorna Salt"
+    },
+    {
+        "SlNo" : 904, 
+        "name" :"Green Gram",
+        "Quantity" : {"weightIn" : "kg", "number" : "1/2" },
+        "Unit" : 1,
+        "Department" : "Grocery-Pulses" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 905, 
+        "name" :"Tea Powder",
+        "Quantity" : {"weightIn" : "kg", "number" : "1" },
+        "Unit" : 1,
+        "Department" : "Grocery-Aromatic Beverage" ,
+        "Notes": "Three Roses"
+    },
+    {
+        "SlNo" : 906, 
+        "name" :"Kidney beans",
+        "Quantity" : {"weightIn" : "kg", "number" : "1/2" },
+        "Unit" : 1,
+        "Department" : "Grocery-Pulses" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 907, 
+        "name" :"Coconut Oil",
+        "Quantity" : {"weightIn" : "kg", "number" : "1" },
+        "Unit" : 1,
+        "Department" : "Grocery-Edible Oil" ,
+        "Notes": "Kera"
+    },
+    {
+        "SlNo" : 908, 
+        "name" :"Mustard seeds",
+        "Quantity" : {"weightIn" : "grams", "number" : "100" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 909, 
+        "name" :"Jaggery",
+        "Quantity" : {"weightIn" : "kg", "number" : "1" },
+        "Unit" : 1,
+        "Department" : "Grocery" ,
+        "Notes": null
+    },
+    {
+        "SlNo" : 910, 
+        "name" :" Cardamom",
+        "Quantity" : {"weightIn" : "grams", "number" : "50" },
+        "Unit" : 1,
+        "Department" : "Grocery-Spices" ,
+        "Notes": null
+    }
+]
+}
